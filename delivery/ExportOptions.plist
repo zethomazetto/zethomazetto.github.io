@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop.ipa</string>
+		<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://zethomazetto.github.io/delivery/tmdb57.png</string>
 		<key>fullSizeImageURL</key>
