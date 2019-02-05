@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-322F454D-035A-44A3-8A68-F82AD824D935.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-322F454D-035A-44A3-8A68-F82AD824D935.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -153,7 +153,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-916E08BA-147C-44DB-B882-838ECBAF24DC.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-916E08BA-147C-44DB-B882-838ECBAF24DC.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -173,7 +173,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-B80B2947-1795-4C9F-B002-E7862E18A6A7.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-B80B2947-1795-4C9F-B002-E7862E18A6A7.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -213,7 +213,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-C9F84569-2A65-4B7C-8FD7-962FDF3053B0.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-C9F84569-2A65-4B7C-8FD7-962FDF3053B0.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -358,7 +358,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-3FBC70AD-704F-4A92-84E8-23D54F34056F.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-3FBC70AD-704F-4A92-84E8-23D54F34056F.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -412,7 +412,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-C10344A4-1209-4C8C-9436-8B1503F12DE1.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-C10344A4-1209-4C8C-9436-8B1503F12DE1.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -431,7 +431,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zethomazetto.github.io/delivery/apps/TesteDevIOSFastShop-52EE3419-0879-40C3-BD38-B0F70083602C.ipa</string>
+					<string>https://github.com/zethomazetto/TesteDevIOSFastShop/releases/download/1.0/TesteDevIOSFastShop-52EE3419-0879-40C3-BD38-B0F70083602C.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
